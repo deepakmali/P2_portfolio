@@ -1,0 +1,21 @@
+body {
+	font-family:  'Lato', sans-serif;
+	font-weight: 300;
+	color: #7d97ad;
+}
+
+hr {
+	background-color: #2d3c49;
+	size: 2px;
+	border: solid 1px #2d3c49;
+}
+
+.title-super {
+	font-weight: 100;
+	font-size: 5em;
+}
+
+.title-logo {
+	height: 140px;
+	width: 400px;
+}
