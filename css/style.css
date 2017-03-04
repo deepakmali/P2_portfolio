@@ -19,3 +19,8 @@ hr {
 	height: 140px;
 	width: 400px;
 }
+
+.project-img {
+	margin-left: auto ;
+	margin-right: auto;
+}
